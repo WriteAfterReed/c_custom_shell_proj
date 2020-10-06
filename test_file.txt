@@ -1,0 +1,8 @@
+cd ..
+ls
+sleep 5
+echo pls && why
+pwd&
+!history
+echo Finished!
+ 

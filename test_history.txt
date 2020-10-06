@@ -1,0 +1,28 @@
+cd ..
+ls
+sleep 5
+echo pls 
+why
+sleep 20 &
+echo Finished!
+cd ..
+ls
+sleep 5
+echo pls 
+why
+sleep 1 &
+echo Finished!
+cd ..
+ls
+sleep 5
+echo pls 
+why
+pwd&
+echo Finished!
+cd ..
+ls
+sleep 5
+echo pls 
+why
+pwd&
+echo Finished!
